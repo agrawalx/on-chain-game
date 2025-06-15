@@ -84,7 +84,7 @@ Purpose: Contains the core logic for the geometric calculation. The Geometry Con
 ## 📁 File Structure
 
 .
-├── src
+├── src  \
 │   ├── game
 │   │   └── GameScene.js     # Main Phaser scene, contains all game logic.
 │   └── utils
