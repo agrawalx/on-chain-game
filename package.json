@@ -1,0 +1,17 @@
+{
+  "name": "angry-onchain",
+  "version": "1.0.0",
+  "description": "Phaser.js on-chain Angry Birds style game",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "type": "module"
+}
