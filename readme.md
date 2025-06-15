@@ -65,7 +65,7 @@ Ensure you have the MetaMask browser extension installed.
 Switch MetaMask to the Westend Testnet.
 
 The game will prompt you to connect your wallet upon loading.
-```
+
 ## ⛓️ On-Chain Components
 -The game interacts with two smart contracts deployed on the Sepolia testnet.
 
@@ -82,7 +82,7 @@ Address: 0xa7Fb75158F73E05C13DED5cFb2412AF5dca68967
 Purpose: Contains the core logic for the geometric calculation. The Geometry Contract calls this contract to get the result.
 
 ## 📁 File Structure
-```
+
 .
 ├── src
 │   ├── game
@@ -92,4 +92,3 @@ Purpose: Contains the core logic for the geometric calculation. The Geometry Con
 ├── index.html               # Entry point for the application.
 ├── package.json             # Project dependencies and scripts.
 └── README.md                # This file.
-```
