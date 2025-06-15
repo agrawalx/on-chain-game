@@ -42,22 +42,22 @@
 
 ## 🛠️ Installation and Setup
 **To get the game running locally, follow these steps:**
-```
-Clone the repository:
 
+> Clone the repository:
+```sh
 git clone [<your-repo-url>](https://github.com/agrawalx/on-chain-game)
 cd angry-onchain
-
-Install dependencies:
+```
+> Install dependencies:
 This will install Phaser, Ethers.js, and Parcel.
-
+```sh
 npm install
-
-Start the development server:
-This command will launch the game in your web browser.
-
+```
+>Start the development server:
+>This command will launch the game in your web browser.
+```sh
 npm start
-
+```
 Connect MetaMask:
 
 Ensure you have the MetaMask browser extension installed.
