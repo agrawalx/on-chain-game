@@ -45,7 +45,7 @@
 
 > Clone the repository:
 ```sh
-git clone [<your-repo-url>](https://github.com/agrawalx/on-chain-game)
+git clone https://github.com/agrawalx/on-chain-game
 cd angry-onchain
 ```
 > Install dependencies:
