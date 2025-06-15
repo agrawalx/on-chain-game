@@ -56,7 +56,7 @@ npm install
 >Start the development server:
 >This command will launch the game in your web browser.
 ```sh
-npm start
+npm run start
 ```
 Connect MetaMask:
 
