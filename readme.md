@@ -1,8 +1,8 @@
 # Fireball On-Chain: A Phaser.js Artillery Game
-```
+
 📖 Overview
  Fireball On-Chain is a classic turn-based artillery game, similar to Angry Birds or Pocket Tanks, built with a modern web3 twist. Players take turns adjusting the angle and power of their shots to hit their opponent. The game's visual animations are handled client-side for a smooth user experience, while the critical hit-or-miss outcome of each shot is determined by a smart contract on the blockchain, ensuring fair and verifiable results.
-```
+
 ## ✨ Features
 * Classic Artillery Gameplay: Simple and intuitive turn-based mechanics.
 
