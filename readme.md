@@ -85,10 +85,10 @@ Purpose: Contains the core logic for the geometric calculation. The Geometry Con
 
 .
 ├── src  \
-│   ├── game
-│   │   └── GameScene.js     # Main Phaser scene, contains all game logic.
+│   ├── game  \
+│   │   └── GameScene.js     # Main Phaser scene, contains all game logic.  \
 │   └── utils
-│       └── blockchain.js    # Handles MetaMask connection and contract calls.
-├── index.html               # Entry point for the application.
-├── package.json             # Project dependencies and scripts.
-└── README.md                # This file.
+│       └── blockchain.js    # Handles MetaMask connection and contract calls.  \
+├── index.html               # Entry point for the application.  \
+├── package.json             # Project dependencies and scripts.  \
+└── README.md                # This file.  \
