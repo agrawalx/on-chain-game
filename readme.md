@@ -50,7 +50,7 @@ cd angry-onchain
 ```
 > Install dependencies:
 This will install Phaser, Ethers.js, and Parcel.
-```sh
+```bash
 npm install
 ```
 >Start the development server:
